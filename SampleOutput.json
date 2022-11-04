@@ -1,0 +1,173 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Why are streaming platforms keeping Kanye when other companies cut ties? | CBC News",
+            "description": "Ye, the musician formerly known as Kanye West, has been dropped by the majority of fashion and business brands that previously partnered with him. But the business at the centre of his fame, his music, remains relatively untouched — and available on streaming…",
+            "url": "http://www.cbc.ca/news/entertainment/ye-music-available-1.6634032",
+            "urlToImage": "https://i.cbc.ca/1.6634180.1667020655!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1180497945.jpg",
+            "publishedAt": "2022-10-29T15:22:25.5547541Z",
+            "content": "Several weeks after a raft of antisemitic comments which finally pushed companies from Balenciaga, to Vogue, to Gap and TJ Maxx to sever ties, one area of Ye's empire still remains relatively untouch… [+5985 chars]"
+        },
+
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Riley Farrell",
+            "title": "Peat produces profit for businesses flooding Scotland’s wetlands",
+            "description": "Scotland's ‘carbon credit’ payments have incentivized businesses to go green.",
+            "url": "https://abcnews.go.com/International/peat-produces-profit-businesses-flooding-scotlands-wetlands/story?id=92282172",
+            "urlToImage": "https://s.abcnews.com/images/International/RulliPeat2_1667017675058_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-10-29T09:09:47Z",
+            "content": "STRATHSPEY, Scotland -- As BrewDog co-founder Martin Dickie trudged through his newly-acquired 9,000 acres of muted amber and jade moss, the Aberdeenshire native explained what makes Scotlands peat s… [+3552 chars]"
+        },
+
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Maryam Zakir-Hussain",
+            "title": "Tube passenger attacked with machete relives terrifying moment he locked eyes with ‘Terminator’",
+            "description": "Ambushed business consultant James Poritt says he was ‘singled out’ by Ricky Morgan during the attack in London",
+            "url": "http://www.independent.co.uk/news/uk/crime/london-tube-machete-morgan-terminator-b2213297.html",
+            "urlToImage": "https://static.independent.co.uk/2022/05/20/20/newFile-1.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-10-29T09:04:10Z",
+            "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nA business consultant who was attacked by a machete … [+2868 chars]"
+        },
+
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jason Douglas, Stella Yifan Xie",
+            "title": "An American Helped Build a Business Inside China. Clients Want Him to Leave.",
+            "description": "Manufacturer Jacob Rothman says he faces calls to make goods elsewhere because of supply-chain meltdowns, trade tensions and Covid-19 lockdowns. ‘There’s not a customer that we have that isn’t pressuring us.’",
+            "url": "https://www.wsj.com/articles/an-american-helped-build-a-business-inside-china-clients-want-him-to-leave-11667016034?mod=hp_lead_pos9",
+            "urlToImage": "https://images.wsj.net/im-653118/social",
+            "publishedAt": "2022-10-29T04:00:00Z",
+            "content": "It took Jacob Rothman two decades to build a Chinese manufacturing business with his friends and family. Now the 49-year-old American executive says customers want him to make some of his grilling to… [+526 chars]"
+        },
+
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Contributed Chapters to a Book - The Elon Musk Mission - Making The Future Awesome | NextBigFuture.com",
+            "description": "Randy Kirk wrote a best-selling book on the business practices of Elon Musk, The Elon Musk Method. Now he has joined forces with popular Tesla news YouTuber,",
+            "url": "https://www.nextbigfuture.com/2022/10/contributed-chapters-to-a-book-the-elon-musk-mission-making-the-future-awesome.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/10/Screen-Shot-2022-10-28-at-6.01.35-PM.png",
+            "publishedAt": "2022-10-29T01:09:17Z",
+            "content": "Randy Kirk wrote a best-selling book on the business practices of Elon Musk, The Elon Musk Method. Now he has joined forces with popular Tesla news YouTuber, Lars Strandridder of Best in Tesla, to un… [+2138 chars]"
+        },
+
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "The TwitterMusking and other news",
+            "description": "Elon Musk has acquired Twitter for real, plus MrBeast thinks his business is worth at least $1.5 billion and it's curtains for Argo AI.",
+            "url": "https://techcrunch.com/2022/10/28/the-twittermusking-and-other-news/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/TC-Pod-feature.jpg?resize=1200,781",
+            "publishedAt": "2022-10-28T20:31:31Z",
+            "content": "Lo, the day is upon us: Elon Musk owns the bird app and all that comes with it. Musk’s $44 billion Twitter acquisition has closed, and he fired most of the top people in charge and is now busy learni… [+596 chars]"
+        },
+
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Andrew Tillett, David Marin-Guzman",
+            "title": "Industrial relations: Business pushes urgent IR changes to stop ‘Trojan horse’ for strikes",
+            "description": "Workplace Relations Minister Tony Burke has signalled that he’s willing to compromise as COSBOA says it does not support the reform.",
+            "url": "http://www.afr.com/politics/federal/business-push-urgent-ir-changes-to-stop-trojan-horse-for-strikes-20221028-p5btor",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.5611%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_261%2C$y_21/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/59ea9568d13d8f48622a081721f2485bd637f226",
+            "publishedAt": "2022-10-28T01:06:57Z",
+            "content": "We note that no equivalent sanction is proposed for law-breaking employers such as Qantas who illegally sacked 2000 workers.\r\nBusiness groups are alarmed that the bill, tabled in parliament on Thursd… [+5149 chars]"
+        },
+
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Jason Del Rey",
+            "title": "Amazon’s stock price is dropping as recession fears mount",
+            "description": "The tech giant warned that businesses are cutting spending and customers are tightening their belts.",
+            "url": "https://www.vox.com/recode/2022/10/27/23427318/amazon-stock-down-earnings-q3-2022-recession",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/v4fhqEEhZBD-bX3nX9CtzBw-epQ=/0x0:6000x3141/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24147145/GettyImages_1244276281.jpg",
+            "publishedAt": "2022-10-27T23:15:00Z",
+            "content": "Amazons stock price fell as much as 20 percent on Thursday afternoon after the tech giant provided a weak forecast for the holiday quarter. The companys chief financial officer said Amazon is attempt… [+3745 chars]"
+        },
+
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "AI's New Creative Streak Sparks a Silicon Valley Gold Rush",
+            "description": "Investors have got the hots for \"generative AI\" that can make text and images like DALL-E and GPT-3. But so far, the hype runs ahead of the business results.",
+            "url": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/",
+            "urlToImage": "https://media.wired.com/photos/635a221f93ea9ed771dc5180/191:100/w_1280,c_limit/Business-AI-Generators-Stephanie-Guo-1177538357.jpg",
+            "publishedAt": "2022-10-27T12:00:00Z",
+            "content": "In the years since, a wave of investment from companies large and small has spread face recognition around the world, has installed always-listening virtual assistants into homes, and has seen AI tec… [+4196 chars]"
+        },
+
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Marris Adikwu",
+            "title": "Climate risks are a major business threat – here’s how AI can help",
+            "description": "The effects of climate change are costing businesses billions when it comes to disruptions to supply chains and operations. But AI can help.",
+            "url": "http://thenextweb.com/news/climate-risks-major-business-threat-how-ai-can-help",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2Fibmg.jpg&signature=382d5c33ad2833887d787a8a8eec16ae",
+            "publishedAt": "2022-10-19T15:14:29Z",
+            "content": "Content provided by IBM and TNW. \r\nWhen Hurricane Harvey struck southeast Texas in 2017, it caused $125 billion in economic damages. A recent assessment of local businesses in the area found that 90%… [+7298 chars]"
+        },
+
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Financial Post",
+            "description": "Read through unique Editorials and Business &amp; Finance columns from our top editors covering current events.",
+            "url": "http://business.financialpost.com/category/opinion/",
+            "urlToImage": "https://storage.googleapis.com/pmd-stage-northamerica-northeast1-dcs-static-files/9.4.3/websites/images/postmedia-image-fallback.png",
+            "publishedAt": "2022-02-20T02:07:22.9503753Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2022 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Financial Post",
+            "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+            "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+            "urlToImage": "https://storage.googleapis.com/pmd-stage-northamerica-northeast1-dcs-static-files/9.4.3/websites/images/postmedia-image-fallback.png",
+            "publishedAt": "2022-02-20T00:52:24.7949372Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2022 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        }
+    ]
+}
