@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-// import PropTypes from 'prop-types'
+import { NavLink } from "react-router-dom";
 
 
 export class Navbar extends Component {
@@ -15,15 +15,9 @@ export class Navbar extends Component {
         </div>
 
         <div className="nav-container-links d-flex mx-4">
-            <div className="nav-item">
-                <a href="/">Home</a>
-            </div>
-            <div className="nav-item">
-                <a href="/">About</a>
-            </div>
-            <div className="nav-item">
-                <a href="/">Contact</a>
-            </div>
+            <NavLink className={({ isActive }) => isActive ? 'nav-active nav-item' : 'nav-item'} to="/">Home</NavLink>
+            <NavLink className="nav-item" to="/">About</NavLink>
+            <NavLink className="nav-item" to="/">Contact</NavLink>
         </div>
         
       </nav>
